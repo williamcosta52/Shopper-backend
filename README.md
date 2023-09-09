@@ -1,3 +1,5 @@
+# Para rodar o projeto:
+
 ## Instale as depêndencias
 
 ```bash
